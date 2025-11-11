@@ -13,6 +13,7 @@ Two datasets were used:
 - https://github.com/madhan-mech/Sales-Data-Analysis-using-SQL/blob/main/Orders.csv
 - 
 - **details** — Contains sales transaction details (Order ID, Product, Quantity, Profit, and Amount)
+- https://github.com/madhan-mech/Sales-Data-Analysis-using-SQL/blob/main/Details.csv
 
 ---
 
