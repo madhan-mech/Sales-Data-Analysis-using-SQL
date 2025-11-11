@@ -10,6 +10,8 @@ The goal is to identify top-performing regions, products, and customer segments,
 Two datasets were used:
 
 - **orders** — Contains customer and order-level details (Order ID, Customer Name, City, State, etc.)
+- https://github.com/madhan-mech/Sales-Data-Analysis-using-SQL/blob/main/Orders.csv
+- 
 - **details** — Contains sales transaction details (Order ID, Product, Quantity, Profit, and Amount)
 
 ---
