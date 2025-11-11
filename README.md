@@ -18,7 +18,7 @@ Two datasets were used:
 ---
 
 ## 🛠️ Tools & Technologies
-- **SQL** (MySQL / SQLite)
+- **SQL** (MySQL)
 - **Joins**, **Group By**, **Aggregations**, **Order By**, **Limit**
 - **Functions used:** `SUM()`, `COUNT()`, `AVG()`, `DISTINCT()`, `CASE WHEN`
 
