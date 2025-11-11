@@ -40,6 +40,13 @@ Two datasets were used:
 | 10 | **Mode of Payment Analysis** | Distribution of orders by payment type |
 
 ---
+
+## Sales Project By SQL
+
+https://github.com/madhan-mech/Sales-Data-Analysis-using-SQL/blob/main/Sales%20Analysis%20by%20SQL.pdf
+
+-----
+
 # Business Insights & Explanation
 
 | # | Insight                     | Explanation                                                                                                                   |
