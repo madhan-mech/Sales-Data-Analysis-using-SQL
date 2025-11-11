@@ -37,6 +37,7 @@ Two datasets were used:
 | 10 | **Mode of Payment Analysis** | Distribution of orders by payment type |
 
 ---
+# Business Insights & Explanation
 
 | # | Insight                     | Explanation                                                                                                                   |
 | - | --------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
@@ -49,6 +50,8 @@ Two datasets were used:
 | 7 | **Sub-Category Leaders**    | Accessories, Phones, and Chairs drive consistent sales volume, highlighting product stability across markets.                 |
 
 ------
+
+# Business Improvement Suggestions
 
 | # | Area                    | Recommendation                                                                                            | Expected Benefit                                   |
 | - | ----------------------- | --------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
